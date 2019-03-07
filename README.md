@@ -10,7 +10,7 @@ The script get all tickets and comments from zendesk api and create 2 files "tic
 
 ## To run the code
 
- **python 3^**
+ **python 3**
 
 First you need replace in code all <ZENDESK LOGIN> for your user, <ZENDESK PASS> for your password and <ZENDESK URL> for your zendesk url, and finally and run:
 
